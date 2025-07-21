@@ -2,8 +2,7 @@
 🎮 Currently building:  
 A personal project in **game design and development**, focused on character systems, procedural mechanics, and gameplay scripting using Unity and Unreal Engine.
 
-📚 Currently learning:  
-Advanced game architecture, animation systems, and performance optimization techniques across C++, Python, and C# stacks.
+
 
 ---
 
