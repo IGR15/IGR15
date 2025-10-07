@@ -1,6 +1,6 @@
 # 💫 About Me
 🎮 Currently building:  
-A personal project in **game design and development**, focused on character systems, procedural mechanics, and gameplay scripting using Unity and Unreal Engine.
+A personal project in **game design and development**, focused on character systems, procedural mechanics, and gameplay scripting using Unreal Engine.
 
 
 
